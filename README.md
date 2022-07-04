@@ -53,5 +53,5 @@ git commit -m "first commit"
 ```
 
 ```bash
-     git add . && git commit -m "updated README file"
+git add . && git commit -m "updated README file"
 ```
