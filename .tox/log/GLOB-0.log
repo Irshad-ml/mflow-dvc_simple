@@ -1,6 +1,6 @@
 action: GLOB, msg: packaging
 cwd: C:\Users\m3irs\OneDrive\Desktop\2021DataScience\InterviewProject\MLFLOW_DVC_Project\mlflow_dvc_simple
-cmd: 'C:\Users\m3irs\anaconda3\envs\winedata\python.exe' setup.py sdist --formats=zip --dist-dir 'C:\Users\m3irs\OneDrive\Desktop\2021DataScience\InterviewProject\MLFLOW_DVC_Project\mlflow_dvc_simple\.tox\dist'
+cmd: 'C:\Users\m3irs\anaconda3\envs\winedata\python.exe' setup.py sdist --formats=zip --dist-dir '.tox\dist'
 running sdist
 running egg_info
 writing src.egg-info\PKG-INFO
@@ -33,8 +33,7 @@ copying tests\__init__.py -> src-0.0.1\tests
 copying tests\conftest.py -> src-0.0.1\tests
 copying tests\test_config.py -> src-0.0.1\tests
 Writing src-0.0.1\setup.cfg
-creating C:\Users\m3irs\OneDrive\Desktop\2021DataScience\InterviewProject\MLFLOW_DVC_Project\mlflow_dvc_simple\.tox\dist
-creating 'C:\Users\m3irs\OneDrive\Desktop\2021DataScience\InterviewProject\MLFLOW_DVC_Project\mlflow_dvc_simple\.tox\dist\src-0.0.1.zip' and adding 'src-0.0.1' to it
+creating '.tox\dist\src-0.0.1.zip' and adding 'src-0.0.1' to it
 adding 'src-0.0.1'
 adding 'src-0.0.1\src'
 adding 'src-0.0.1\src.egg-info'

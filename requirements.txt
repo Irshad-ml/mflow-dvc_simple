@@ -1,6 +1,11 @@
+#local package install
+-e .
+
+#third part packages
 dvc
 dvc[gdrive]
 sklearn
 pandas
 pytest
 tox
+flake8

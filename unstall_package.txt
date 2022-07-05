@@ -1,0 +1,7 @@
+jupyter-client
+jupyter-console
+jupyter-core
+jupyter-server
+jupyterlab-pygments
+jupyterlab-server
+jupyterlab-widgets
