@@ -25,3 +25,7 @@ estimators:
 
 
 model_dirs : saved_models
+
+reports:
+   params:  reports/params.json
+   metrics: reports/metrics.json

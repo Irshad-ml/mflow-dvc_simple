@@ -26,3 +26,10 @@ stages:
      params:
      - estimators.ElasticNet.params.alpha
      - estimators.ElasticNet.params.l1_ratio
+     metrics:
+     - reports/metrics.json:
+          cache: false
+     - reports/params.json:
+          cache: false
+
+ 
